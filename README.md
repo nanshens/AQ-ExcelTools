@@ -21,4 +21,4 @@ excel 2013专业版以上
 3. 本项目不收费,希望支持,谢谢大家.
 
 #### 二维码
-<img src="https://raw.github.com/nanshens/ExcelOneClickRun/main/wx.jpg" alt="wx" width="400px"/> <img src="https://raw.github.com/nanshens/ExcelOneClickRun/main/wx_1.jpg" alt="wx1" width="400px"/> 
+<img src="https://raw.github.com/nanshens/ExcelOneClickRun/main/wx_2.jpg" alt="wx" width="400px"/> <img src="https://raw.github.com/nanshens/ExcelOneClickRun/main/wx_1.jpg" alt="wx1" width="400px"/> 
