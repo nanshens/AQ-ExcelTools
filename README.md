@@ -19,3 +19,7 @@ excel 2013专业版以上
 1. 公司,私人定制请加下面wx
 2. 想添加新功能请在issue里添加.(如果能适当赞赏,可优先开发)
 3. 本项目不收费,希望支持,谢谢大家.
+
+#### 二维码
+<img src="https://raw.github.com/nanshens/ExcelOneClickRun/main/wx.jpg" alt="wx" /> 
+<img src="https://raw.github.com/nanshens/ExcelOneClickRun/main/wx_1.jpg" alt="wx1" /> 
