@@ -8,6 +8,9 @@ excel 2013专业版以上
 点击exe 安装,期间需要net4.7 和vsto 运行环境.
 ## 功能介绍
 #### 一点通-基础版
+功能预览
+<img src="https://raw.github.com/nanshens/ExcelOneClickRun/main/demo/base/total.png" alt="wx"/>
+
 
 #### 一点通-审计版
 
@@ -21,4 +24,4 @@ excel 2013专业版以上
 3. 本项目不收费,希望支持,谢谢大家.
 
 #### 二维码
-<img src="https://raw.github.com/nanshens/ExcelOneClickRun/main/wx_2.jpg" alt="wx" width="400px"/> <img src="https://raw.github.com/nanshens/ExcelOneClickRun/main/wx_1.jpg" alt="wx1" width="400px"/> 
+<img src="https://raw.github.com/nanshens/ExcelOneClickRun/main/wx/wx_2.jpg" alt="wx" width="400px"/> <img src="https://raw.github.com/nanshens/ExcelOneClickRun/wx/main/wx_1.jpg" alt="wx1" width="400px"/> 
