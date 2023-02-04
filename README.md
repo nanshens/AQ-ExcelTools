@@ -22,12 +22,13 @@ excel 2013专业版以上
 
 ## 规划
 
-目前只完成基础版,后续将完善审计版等其他版块
+目前只完成基础版,后续将完善审计版等其他版块.
 
 ## 其他
-1. 公司,私人定制请加下面wx
-2. 想添加新功能请在issue里添加.(如果能适当赞赏,可优先开发)
-3. 本项目不收费,希望支持,谢谢大家.
+1. 公司,私人定制请加下面wx.
+2. 想添加新功能请在issue里添加(如果能适当赞赏,可优先开发).
+4. 对现有功能提改进和bug,请在issue注明.
+5. 本项目不收费,希望支持,谢谢大家.
 
 #### 二维码
 <img src="https://raw.github.com/nanshens/ExcelOneClickRun/main/wx/wx_2.jpg" alt="wx" width="400px"/> <img src="https://raw.github.com/nanshens/ExcelOneClickRun/main/wx/wx_1.jpg" alt="wx1" width="400px"/> 
