@@ -4,14 +4,20 @@
 一个免费的excel工具箱, 提供了很多便捷功能.
 ## 使用环境
 excel 2013专业版以上
+注: excel2013,excel2016 家庭和学生版 可能失效 注册不上vsto程序.
 ## 安装
 点击exe 安装,期间需要net4.7 和vsto 运行环境.
 ## 功能介绍
 #### 一点通-基础版
-功能预览
+##### 功能总览
 <img src="https://raw.github.com/nanshens/ExcelOneClickRun/main/demo/base/total.png" alt="wx"/>
 
-
+##### 详细演示
+1. [文本处理](https://raw.github.com/nanshens/ExcelOneClickRun/main/demo/base/text/text.md)
+2. [计算](https://raw.github.com/nanshens/ExcelOneClickRun/main/demo/base/calc/calc.md)
+3. [标记](https://raw.github.com/nanshens/ExcelOneClickRun/main/demo/base/mark/mark.md)
+4. [查找和过滤](https://raw.github.com/nanshens/ExcelOneClickRun/main/demo/base/find/find.md)
+5. [工作表](https://raw.github.com/nanshens/ExcelOneClickRun/main/demo/base/worksheet/worksheet.md)
 #### 一点通-审计版
 
 ## 规划
@@ -24,4 +30,4 @@ excel 2013专业版以上
 3. 本项目不收费,希望支持,谢谢大家.
 
 #### 二维码
-<img src="https://raw.github.com/nanshens/ExcelOneClickRun/main/wx/wx_2.jpg" alt="wx" width="400px"/> <img src="https://raw.github.com/nanshens/ExcelOneClickRun/wx/main/wx_1.jpg" alt="wx1" width="400px"/> 
+<img src="https://raw.github.com/nanshens/ExcelOneClickRun/main/wx/wx_2.jpg" alt="wx" width="400px"/> <img src="https://raw.github.com/nanshens/ExcelOneClickRun/main/wx/wx_1.jpg" alt="wx1" width="400px"/> 
