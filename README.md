@@ -13,11 +13,11 @@ excel 2013专业版以上
 <img src="https://raw.github.com/nanshens/ExcelOneClickRun/main/demo/base/total.png" alt="wx"/>
 
 ##### 详细演示
-1. [文本处理](https://raw.github.com/nanshens/ExcelOneClickRun/main/demo/base/text/text.md)
-2. [计算](https://raw.github.com/nanshens/ExcelOneClickRun/main/demo/base/calc/calc.md)
-3. [标记](https://raw.github.com/nanshens/ExcelOneClickRun/main/demo/base/mark/mark.md)
-4. [查找和过滤](https://raw.github.com/nanshens/ExcelOneClickRun/main/demo/base/find/find.md)
-5. [工作表](https://raw.github.com/nanshens/ExcelOneClickRun/main/demo/base/worksheet/worksheet.md)
+1. [文本处理](./demo/base/text/text.md)
+2. [计算](./demo/base/calc/calc.md)
+3. [标记](./demo/base/mark/mark.md)
+4. [查找和过滤](./demo/base/find/find.md)
+5. [工作表](./demo/base/worksheet/worksheet.md)
 #### 一点通-审计版
 
 ## 规划
